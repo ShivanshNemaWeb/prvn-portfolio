@@ -1,8 +1,6 @@
 {
   "name": "Parvendra-Rajput-portfolio",
-  "homepage": "https:Parvendrarajputt//.github.io/Myportfolio",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@emotion/react": "^11.11.0",
