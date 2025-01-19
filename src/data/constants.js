@@ -8,7 +8,7 @@ export const Bio = {
     "Strong problem-solving, communication, and teamwork skills. Adaptability to dynamic environments. Clear articulation of complex ideas. Proactive approach to feedback. Commitment to excellence and continuous improvement.",
   github: "https://github.com/Parvendrarajputt",
   resume:
-    "https://drive.google.com/file/d/19k_Vkc6bK_N4BW2L8oWQdBJPAYXfX5IE/view?usp=sharing",
+    "https://drive.google.com/file/d/1Qo_JQ8jI4LxQfVuEzHxwE7pbZ51pqOa9/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/parvendra-rajput-27b9701bb/",
   twitter: "https://twitter.com/Wesle_y__",
 };
